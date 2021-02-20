@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+.history
+sync/.vs
+sync/Debug
+sync/Release
+sync/packages
+sync/sync/Debug
+sync/sync/Release
+sync/sync/sync.vcxproj.user
