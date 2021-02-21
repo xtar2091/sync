@@ -18,8 +18,40 @@
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="GlobalConf.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CommanLine.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FileWalker.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FileUploadManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FileCleanManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GlobalConf.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CommanLine.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FileWalker.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FileUploadManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FileCleanManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

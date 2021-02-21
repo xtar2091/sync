@@ -1,0 +1,14 @@
+{
+    "history": {
+        "path": ".history"
+    },
+    "local": {
+        "path": "E:\\WindowsLib\\Desktop\\test"
+    },
+    "remote": {
+        "path": "/root/code/configure/dev/server"
+    },
+    "upload": {
+        "command": "jscp"
+    }
+}
